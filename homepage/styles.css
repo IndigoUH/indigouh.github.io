@@ -1,0 +1,28 @@
+nav {
+    font-family: 'Oswald', sans-serif;
+}
+
+.bg {
+    background-color: blue;
+}
+
+.carousel img{
+    width: 80% !important;
+    margin-left: 10% !important;
+}
+.es {
+    background-color: orange;
+}
+p{
+    color: red;
+    font-size: 25px;
+}
+.lo{
+    background-color: yellow;
+}
+.im{
+    background-color: blue;
+}
+.map{
+    text-align: center;
+}
